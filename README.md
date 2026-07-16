@@ -1,1 +1,1 @@
-# stable-diffusion-keras-
+# stable-diffusion-keras_cv
