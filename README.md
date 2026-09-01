@@ -31,3 +31,10 @@ Install dependencies: Run
 ```bash
 ! wget https://huggingface.co/jinseokim/stable-diffusion-pytorch-data/resolve/main/data.v20221029.tar
 ```
+```bash
+!pip install --upgrade keras-cv tensorflow
+!pip install --upgrade keras-cv-nightly tf-nightly
+!pip install --upgrade keras-cv tensorflow
+!pip install --upgrade keras
+
+```
