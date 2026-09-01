@@ -26,5 +26,8 @@ Clone or download this repository.
 Install dependencies: Run 
 
 ```bash
-pip install pylint
+! pip install stable-diffusion-pytorch
+```
+```bash
+! wget https://huggingface.co/jinseokim/stable-diffusion-pytorch-data/resolve/main/data.v20221029.tar
 ```
