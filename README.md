@@ -17,3 +17,14 @@ stable-diffusion-pytorch
 H5py
 
 math
+
+# How to Install 
+
+## Installation
+
+Clone or download this repository.
+Install dependencies: Run 
+
+```bash
+pip install pylint
+```
