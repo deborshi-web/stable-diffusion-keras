@@ -1,5 +1,5 @@
 # stable-diffusion-keras_cv
-**Forked from  [Stable-Diffusion-Pytorch](https://github.com/kjsman/stable-diffusion-pytorch/tree/main) and completely re-engineered in TensorFlow & Keras** — transforming PyTorch checkpoints (.pt) into portable Keras weights (.h5) for lightweight, framework-agnostic inference.
+**Forked from  [Stable-Diffusion-Pytorch](https://github.com/kjsman/stable-diffusion-pytorch/tree/main) and completely re-engineered in TensorFlow & Keras** — transforming PyTorch checkpoints (.pt) into portable Keras weights (.h5) for lightweight, framework-agnostic inference.Download data.v20221029.tar [from here](https://huggingface.co/jinseokim/stable-diffusion-pytorch-data/resolve/main/data.v20221029.tar) and unpack in the parent folder
 
 # Dependencies
 Tensorflow 
@@ -36,5 +36,9 @@ Install dependencies: Run
 !pip install --upgrade keras-cv-nightly tf-nightly
 !pip install --upgrade keras-cv tensorflow
 !pip install --upgrade keras
-
 ```
+
+```bash
+!pip install keras
+```
+
